@@ -6,7 +6,7 @@
 
 Apasionado por el desarrollo backend, la arquitectura de software, DevOps y la automatización de pruebas.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://instagram.com/_.fuansito)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://instagram.com/fuansito)
 
 </div>
 
